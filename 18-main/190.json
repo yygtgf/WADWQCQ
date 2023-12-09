@@ -123,7 +123,10 @@
      {"key": "KOK资源","name": "🔞KOK资源","type": 1,"api": "https://api.vodkok2.com/api.php/provide/vod/", "searchable": 1,"quickSearch": 1, "filterable": 0 },
      {"key": "鸡坤资源", "name": "🔞鸡坤资源", "type": 1, "api": "https://jkunzyapi.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
      {"key":"*鲨鱼资源","name":"🔞鲨鱼资源","type":1,"api":"https://shayuapi.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
-     
+     {"key": "91视频","name": "🔞九麻","type": 1,"api": "https://91md.me/api.php/provide/vod/at/json", "searchable": 1,"quickSearch": 1, "filterable": 0 },
+     {"key": "91视频", "name": "🔞91视频", "type": 1, "api": "https://91av.cyou/api.php/provide/vod/at/json", "searchable": 1, "quickSearch": 1, "filterable": 0 },
+     {"key":"*天美①","name":"🔞鲨鱼资源","type":1,"api":"http://www.tianmei.pw/api.php/provide/vod/from/m3u8/","searchable":0,"quickSearch":0},
+    
      {"key": "15","name": "⇣⇣⇣⇣20230817⇣⇣⇣⇣","api": "1","type": 3,"filterable": 0,"quickSearch": 0,"searchable": 0},
      {"key": "16","name": "⇣⇣⇣⇣20230817⇣⇣⇣⇣","api": "1","type": 3,"filterable": 0,"quickSearch": 0,"searchable": 0},
 
