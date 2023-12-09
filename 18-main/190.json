@@ -60,7 +60,7 @@
       "quickSearch":0
     },
     {
-      "key": "探探",
+      "key": "91",
       "name": "🈵成人影视4",
       "type": 1,
       "api": "https://91md.me/api.php/provide/vod/from/m3u8/",
@@ -69,33 +69,6 @@
       "filterable": 0
     },
     
-
-     {"key": "5","name": "-----福利分割线-----","api": "1","type": 3,"filterable": 0,"quickSearch": 0,"searchable": 0},
-     {"key": "6","name": "-----福利分割线-----","api": "1","type": 3,"filterable": 0,"quickSearch": 0,"searchable": 0},
-
-    
-      {"key":"*大地资源","name":"🏆大地资源","type":0,"api":"https://dadiapi.com/api.php","searchable":0,"quickSearch":0},
-
-     {"key": "3","name": "-----福利分割线-----","api": "1","type": 3,"filterable": 0,"quickSearch": 0,"searchable": 0},
-     {"key": "4","name": "-----福利分割线-----","api": "1","type": 3,"filterable": 0,"quickSearch": 0,"searchable": 0},
-     {
-       "key":"*精东",
-       "name":"🈴精东",
-       "type":0,
-       "api":"http://chujia.cc/api.php/provide/vod/from/m3u8/",
-       "searchable":1,
-       "quickSearch":1,
-       "filterable":0
-     },
-     {
-       "key":"麻",
-       "name":"麻",
-       "type":0,
-       "api":"http://wuxu.cc/api.php/provide/vod/from/mdm3u8/",
-       "searchable":1,
-       "quickSearch":1,
-       "filterable":0
-     },
      {
        "key":"91md",
        "name":"🈴91麻豆",
@@ -112,24 +85,17 @@
      {"key":"*白嫖资源","name":"🈴白嫖资源","type":0,"api":"https://www.kxgav.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":0},
      {"key":"*淫水机资源","name":"🈴淫水机","type":0,"api":"https://www.xrbsp.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":0},
      {"key":"*香奶儿资源","name":"🈴香奶儿","type":0,"api":"https://www.gdlsp.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":0},
-    {"key":"*色猫资源","name":"🈴色猫资源","type":1,"api":"https://api.maozyapi.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
-
-     {"key": "1","name": "-----福利分割线-----","api": "1","type": 3,"filterable": 0,"quickSearch": 0,"searchable": 0},
-     {"key": "2","name": "-----福利分割线-----","api": "1","type": 3,"filterable": 0,"quickSearch": 0,"searchable": 0},
-
+    {"key":"*色猫资源","name":"🈴色猫资源","type":1,"api":"https://api.maozyapi.com/inc/apijson_vod.php","searchable":0,"quickSearch":0}
      {"key": "天美资源","name": "🔞天美资源","type": 1,"api": "https://tmyy.cc/api.php/provide/vod/from/m3u8/","searchable": 0,"quickSearch": 0},
      {"key": "91麻豆源","name": "🔞91麻豆源","type": 1,"api": "http://wuxu.cc/api.php/provide/vod/from/mdm3u8/","searchable": 0,"quickSearch": 0},
      {"key":"*速度资源","name":"🔞速度资源","type":0,"api":"http://www.ggmmzy.com:9999/inc/xml","searchable":0,"quickSearch":0},
      {"key": "KOK资源","name": "🔞KOK资源","type": 1,"api": "https://api.vodkok2.com/api.php/provide/vod/", "searchable": 1,"quickSearch": 1, "filterable": 0 },
      {"key": "鸡坤资源", "name": "🔞鸡坤资源", "type": 1, "api": "https://jkunzyapi.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
      {"key":"*鲨鱼资源","name":"🔞鲨鱼资源","type":1,"api":"https://shayuapi.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
-     {"key": "91视频","name": "🔞九麻","type": 1,"api": "https://91md.me/api.php/provide/vod/at/json", "searchable": 1,"quickSearch": 1, "filterable": 0 },
+     {"key": "九麻","name": "🔞九麻","type": 1,"api": "https://91md.me/api.php/provide/vod/at/json", "searchable": 1,"quickSearch": 1, "filterable": 0 },
      {"key": "91视频", "name": "🔞91视频", "type": 1, "api": "https://91av.cyou/api.php/provide/vod/at/json", "searchable": 1, "quickSearch": 1, "filterable": 0 },
-     {"key":"*天美①","name":"🔞鲨鱼资源","type":1,"api":"http://www.tianmei.pw/api.php/provide/vod/from/m3u8/","searchable":0,"quickSearch":0},
-    
-     {"key": "15","name": "⇣⇣⇣⇣20230817⇣⇣⇣⇣","api": "1","type": 3,"filterable": 0,"quickSearch": 0,"searchable": 0},
-     {"key": "16","name": "⇣⇣⇣⇣20230817⇣⇣⇣⇣","api": "1","type": 3,"filterable": 0,"quickSearch": 0,"searchable": 0},
-
+     {"key":"*天美①","name":"天美①","type":1,"api":"http://www.tianmei.pw/api.php/provide/vod/from/m3u8/","searchable":0,"quickSearch":0},
+  
 
     {
       "key": "dadiapi.com",
