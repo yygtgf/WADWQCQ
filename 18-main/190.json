@@ -80,7 +80,7 @@
        "key":"*一本道资源",
        "name":"🈴一本道资源",
        "type":0,
-       "api":"https://www.caiji03.com/home/cjapi/cfg8/mc10/vod/xml",
+       "api":"http://chujia.cc/api.php/provide/vod/from/m3u8/",
        "searchable":1,
        "quickSearch":1,
        "filterable":0
@@ -148,6 +148,9 @@
      {"key": "KOK资源","name": "🔞KOK资源","type": 1,"api": "https://api.vodkok2.com/api.php/provide/vod/", "searchable": 1,"quickSearch": 1, "filterable": 0 },
      {"key": "鸡坤资源", "name": "🔞鸡坤资源", "type": 1, "api": "https://jkunzyapi.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
      {"key":"*鲨鱼资源","name":"🔞鲨鱼资源","type":1,"api":"https://shayuapi.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
+     {"key": "小草", "name": "🔞小草", "type": 1, "api": "https://www.caoliuzyw.com/api.php/provide/vod/at/json/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
+     {"key":"*91视频","name":"🔞91视频","type":1,"api":"https://91av.cyou/api.php/provide/vod/at/json","searchable":0,"quickSearch":0},
+     {"key":"*果","name":"🔞果","type":1,"api":"https://madoucun.cn/api.php/provide/vod/?ac=xml","searchable":0,"quickSearch":0},
      
      {"key": "15","name": "⇣⇣⇣⇣20230817⇣⇣⇣⇣","api": "1","type": 3,"filterable": 0,"quickSearch": 0,"searchable": 0},
      {"key": "16","name": "⇣⇣⇣⇣20230817⇣⇣⇣⇣","api": "1","type": 3,"filterable": 0,"quickSearch": 0,"searchable": 0},
