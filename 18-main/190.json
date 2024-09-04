@@ -80,7 +80,7 @@
        "key":"*草榴源",
        "name":"🈴草榴源",
        "type":0,
-       "api":"https://www.caoliuzyw.com/index.php/vod/type",
+       "api":"https://www.caoliuzyw.com/api.php/provide/vod/from/clm3u8",
        "searchable":1,
        "quickSearch":1,
        "filterable":0
