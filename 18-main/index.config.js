@@ -36,8 +36,8 @@ var index_config_default = {
     }
   },
   ali: {
-    token: "31d2dd468a234966a199c9d77bc3f8c1",
-    token280: "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJhZmZjNWJiMzVmZWU0Y2YzOTJjZjEyZDRkMjUwNzQ1OCIsImF1ZCI6IjczZTYxMTgzMWE3YzRkODdhYzQ5Yzg0ODFiZjlmMmM0IiwiZXhwIjoxNzI0OTkwNjA0LCJpYXQiOjE3MTcyMTQ2MDQsImp0aSI6IjllZTJlNzQ0Y2YwNTQxNjA4ZjU5Y2JiNjliY2EyNTVmIn0.ZInZHSafMxa3XN2gk1BuZ0--wl6ZYbBEQAshd2U-fLS9U8ktc8EbDlTZmd9rIl-Be8Vf4D2qp4MSeI-tvljTCg"
+    token: "去网址https://alist.nn.ci/guide/drivers/aliyundrive_open.html获取32位token,填入32位token",
+    token280: "去https://messense-aliyundrive-webdav-backendrefresh-token-ucs0wn.streamlit.app/地址获取，填入280位token"
   },
   quark: {
     cookie: "去https://h5.sm.cn/blm/mobile-entry-97/index#/，将浏览器设为PC模式，获取你的夸克cookie覆盖填入此处，形如_UP_A4A_11_=开头的"
