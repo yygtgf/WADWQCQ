@@ -104,7 +104,7 @@
        "filterable":0
      },
      {"key":"葡萄源","name":"🈴葡萄源","type":0,"api":"https://caiji.putaozyw.net/inc/apijson_vod.php","searchable":1,"quickSearch":1,"filterable":1},
-     {"key":"*雪豹源","name":"🈴雪豹源","type":1,"api":"https://api.xbapi.cc/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
+     {"key":"*雪豹源","name":"🈴雪豹源","type":1,"api":"https://www.caoliuzyw.com/api.php/provide/vod/from/clm3u8","searchable":1,"quickSearch":1,"filterable":0},
      {"key":"*老鸭资源","name":"🈴老鸭资源","type":0,"api":"https://api.apilyzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
      {"key":"*甜蜜","name":"🈴甜蜜","type":0,"api":"https://timizy10.cc/api.php/provide/vod/at/json","searchable":1,"quickSearch":1,"filterable":0},
      {"key":"*淫水机资源","name":"🈴淫水机","type":0,"api":"https://www.xrbsp.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":0},
